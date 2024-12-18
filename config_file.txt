@@ -1,0 +1,103 @@
+[NEAT]
+# Core settings for the NEAT algorithm
+fitness_criterion     = max
+fitness_threshold     = 300.0
+pop_size              = 150
+reset_on_extinction   = True
+no_fitness_termination = False
+
+[DefaultGenome]
+# Number of input neurons: 60 for the board (12x5) and 8 for unplaced piece counters
+num_inputs            = 68
+
+# Number of output neurons:
+num_outputs           = 75
+
+# Number of hidden neurons (2/3 IN + OUT)
+num_hidden            = 120
+
+# Feed-forward only networks (no recurrent connections)
+feed_forward          = True
+
+# Activation function settings for hidden layers
+activation_default    = tanh
+activation_mutate_rate = 0.1
+activation_options    = tanh relu gauss  
+# Optional alternatives for evolution
+
+# Aggregation function settings
+aggregation_default   = sum
+aggregation_mutate_rate = 0.0
+aggregation_options   = sum
+
+# Bias settings
+bias_init_mean        = 0.0
+bias_init_stdev       = 1.0
+bias_max_value        = 30.0
+bias_min_value        = -30.0
+bias_mutate_power     = 0.5
+bias_mutate_rate      = 0.7
+bias_replace_rate     = 0.1
+
+# Node settings
+node_activation       = tanh
+node_aggregation      = sum
+node_bias             = True
+
+# Output layer activation function
+output_activation     = identity
+
+# Weight settings
+weight_init_mean      = 0.0
+weight_init_stdev     = 1.0
+weight_max_value      = 30
+weight_min_value      = -30
+weight_mutate_power   = 0.5
+weight_mutate_rate    = 0.8
+weight_replace_rate   = 0.1
+
+# Compatibility function coefficients
+compatibility_disjoint_coefficient = 1.0
+compatibility_weight_coefficient   = 0.5
+
+# Probability of adding new connections during mutation
+conn_add_prob         = 0.5
+
+# Probability of deleting a connection during mutation
+conn_delete_prob      = 0.25
+
+# Probability of adding a new node during mutation
+node_add_prob         = 0.2
+
+# Probability of deleting an existing node during mutation
+node_delete_prob      = 0.1
+
+# Response multiplier settings
+response_init_mean    = 1.0
+response_init_stdev   = 0.5
+response_max_value    = 30.0
+response_min_value    = -30.0
+response_mutate_power = 0.5
+response_mutate_rate  = 0.5
+response_replace_rate = 0.1
+
+# Enable/disable settings for connections
+enabled_default       = True
+enabled_mutate_rate   = 0.15
+enabled_rate_to_false_add = 0.05
+enabled_rate_to_true_add  = 0.05
+
+[DefaultSpeciesSet]
+# Speciation settings
+compatibility_threshold = 3.0
+
+[DefaultStagnation]
+# Stagnation settings to prevent long periods of no improvement
+species_fitness_func  = max
+max_stagnation        = 20
+species_elitism       = 2
+
+[DefaultReproduction]
+# Reproduction settings
+elitism               = 2
+survival_threshold    = 0.2

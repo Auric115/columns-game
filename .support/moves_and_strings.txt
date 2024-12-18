@@ -1,0 +1,1152 @@
+Move: (0, 0, 0, 0, 0) -> Move String: b, 1
+Move: (0, 0, 0, 1, 0) -> Move String: b, 1
+Move: (0, 0, 0, 2, 0) -> Move String: b, 1
+Move: (0, 0, 0, 3, 0) -> Move String: b, 1
+Move: (0, 0, 0, 4, 0) -> Move String: b, 1
+Move: (0, 0, 0, 5, 0) -> Move String: b, 1
+Move: (0, 0, 0, 6, 0) -> Move String: b, 1
+Move: (0, 0, 0, 7, 0) -> Move String: b, 1
+Move: (0, 0, 0, 8, 0) -> Move String: b, 1
+Move: (0, 0, 0, 9, 0) -> Move String: b, 1
+Move: (0, 0, 0, 10, 0) -> Move String: b, 1
+Move: (0, 0, 0, 11, 0) -> Move String: b, 1
+Move: (0, 0, 1, 0, 0) -> Move String: b, 1, 1
+Move: (0, 0, 1, 0, 1) -> Move String: b, 1, 1, 1
+Move: (0, 0, 1, 0, 2) -> Move String: b, 1, 1, 1
+Move: (0, 0, 1, 1, 0) -> Move String: b, 1, 2
+Move: (0, 0, 1, 1, 1) -> Move String: b, 1, 2, 1
+Move: (0, 0, 1, 1, 2) -> Move String: b, 1, 2, 2
+Move: (0, 0, 1, 2, 0) -> Move String: b, 1, 3
+Move: (0, 0, 1, 2, 1) -> Move String: b, 1, 3, 1
+Move: (0, 0, 1, 2, 2) -> Move String: b, 1, 3, 3
+Move: (0, 0, 1, 3, 0) -> Move String: b, 1, 4
+Move: (0, 0, 1, 3, 1) -> Move String: b, 1, 4, 1
+Move: (0, 0, 1, 3, 2) -> Move String: b, 1, 4, 4
+Move: (0, 0, 1, 4, 0) -> Move String: b, 1, 5
+Move: (0, 0, 1, 4, 1) -> Move String: b, 1, 5, 1
+Move: (0, 0, 1, 4, 2) -> Move String: b, 1, 5, 5
+Move: (0, 0, 1, 5, 0) -> Move String: b, 1, 6
+Move: (0, 0, 1, 5, 1) -> Move String: b, 1, 6, 1
+Move: (0, 0, 1, 5, 2) -> Move String: b, 1, 6, 6
+Move: (0, 0, 1, 6, 0) -> Move String: b, 1, 7
+Move: (0, 0, 1, 6, 1) -> Move String: b, 1, 7, 1
+Move: (0, 0, 1, 6, 2) -> Move String: b, 1, 7, 7
+Move: (0, 0, 1, 7, 0) -> Move String: b, 1, 8
+Move: (0, 0, 1, 7, 1) -> Move String: b, 1, 8, 1
+Move: (0, 0, 1, 7, 2) -> Move String: b, 1, 8, 8
+Move: (0, 0, 1, 8, 0) -> Move String: b, 1, 9
+Move: (0, 0, 1, 8, 1) -> Move String: b, 1, 9, 1
+Move: (0, 0, 1, 8, 2) -> Move String: b, 1, 9, 9
+Move: (0, 0, 1, 9, 0) -> Move String: b, 1, 10
+Move: (0, 0, 1, 9, 1) -> Move String: b, 1, 10, 1
+Move: (0, 0, 1, 9, 2) -> Move String: b, 1, 10, 10
+Move: (0, 0, 1, 10, 0) -> Move String: b, 1, 11
+Move: (0, 0, 1, 10, 1) -> Move String: b, 1, 11, 1
+Move: (0, 0, 1, 10, 2) -> Move String: b, 1, 11, 11
+Move: (0, 0, 1, 11, 0) -> Move String: b, 1, 12
+Move: (0, 0, 1, 11, 1) -> Move String: b, 1, 12, 1
+Move: (0, 0, 1, 11, 2) -> Move String: b, 1, 12, 12
+Move: (0, 1, 0, 0, 0) -> Move String: b, 2
+Move: (0, 1, 0, 1, 0) -> Move String: b, 2
+Move: (0, 1, 0, 2, 0) -> Move String: b, 2
+Move: (0, 1, 0, 3, 0) -> Move String: b, 2
+Move: (0, 1, 0, 4, 0) -> Move String: b, 2
+Move: (0, 1, 0, 5, 0) -> Move String: b, 2
+Move: (0, 1, 0, 6, 0) -> Move String: b, 2
+Move: (0, 1, 0, 7, 0) -> Move String: b, 2
+Move: (0, 1, 0, 8, 0) -> Move String: b, 2
+Move: (0, 1, 0, 9, 0) -> Move String: b, 2
+Move: (0, 1, 0, 10, 0) -> Move String: b, 2
+Move: (0, 1, 0, 11, 0) -> Move String: b, 2
+Move: (0, 1, 1, 0, 0) -> Move String: b, 2, 1
+Move: (0, 1, 1, 0, 1) -> Move String: b, 2, 1, 2
+Move: (0, 1, 1, 0, 2) -> Move String: b, 2, 1, 1
+Move: (0, 1, 1, 1, 0) -> Move String: b, 2, 2
+Move: (0, 1, 1, 1, 1) -> Move String: b, 2, 2, 2
+Move: (0, 1, 1, 1, 2) -> Move String: b, 2, 2, 2
+Move: (0, 1, 1, 2, 0) -> Move String: b, 2, 3
+Move: (0, 1, 1, 2, 1) -> Move String: b, 2, 3, 2
+Move: (0, 1, 1, 2, 2) -> Move String: b, 2, 3, 3
+Move: (0, 1, 1, 3, 0) -> Move String: b, 2, 4
+Move: (0, 1, 1, 3, 1) -> Move String: b, 2, 4, 2
+Move: (0, 1, 1, 3, 2) -> Move String: b, 2, 4, 4
+Move: (0, 1, 1, 4, 0) -> Move String: b, 2, 5
+Move: (0, 1, 1, 4, 1) -> Move String: b, 2, 5, 2
+Move: (0, 1, 1, 4, 2) -> Move String: b, 2, 5, 5
+Move: (0, 1, 1, 5, 0) -> Move String: b, 2, 6
+Move: (0, 1, 1, 5, 1) -> Move String: b, 2, 6, 2
+Move: (0, 1, 1, 5, 2) -> Move String: b, 2, 6, 6
+Move: (0, 1, 1, 6, 0) -> Move String: b, 2, 7
+Move: (0, 1, 1, 6, 1) -> Move String: b, 2, 7, 2
+Move: (0, 1, 1, 6, 2) -> Move String: b, 2, 7, 7
+Move: (0, 1, 1, 7, 0) -> Move String: b, 2, 8
+Move: (0, 1, 1, 7, 1) -> Move String: b, 2, 8, 2
+Move: (0, 1, 1, 7, 2) -> Move String: b, 2, 8, 8
+Move: (0, 1, 1, 8, 0) -> Move String: b, 2, 9
+Move: (0, 1, 1, 8, 1) -> Move String: b, 2, 9, 2
+Move: (0, 1, 1, 8, 2) -> Move String: b, 2, 9, 9
+Move: (0, 1, 1, 9, 0) -> Move String: b, 2, 10
+Move: (0, 1, 1, 9, 1) -> Move String: b, 2, 10, 2
+Move: (0, 1, 1, 9, 2) -> Move String: b, 2, 10, 10
+Move: (0, 1, 1, 10, 0) -> Move String: b, 2, 11
+Move: (0, 1, 1, 10, 1) -> Move String: b, 2, 11, 2
+Move: (0, 1, 1, 10, 2) -> Move String: b, 2, 11, 11
+Move: (0, 1, 1, 11, 0) -> Move String: b, 2, 12
+Move: (0, 1, 1, 11, 1) -> Move String: b, 2, 12, 2
+Move: (0, 1, 1, 11, 2) -> Move String: b, 2, 12, 12
+Move: (0, 2, 0, 0, 0) -> Move String: b, 3
+Move: (0, 2, 0, 1, 0) -> Move String: b, 3
+Move: (0, 2, 0, 2, 0) -> Move String: b, 3
+Move: (0, 2, 0, 3, 0) -> Move String: b, 3
+Move: (0, 2, 0, 4, 0) -> Move String: b, 3
+Move: (0, 2, 0, 5, 0) -> Move String: b, 3
+Move: (0, 2, 0, 6, 0) -> Move String: b, 3
+Move: (0, 2, 0, 7, 0) -> Move String: b, 3
+Move: (0, 2, 0, 8, 0) -> Move String: b, 3
+Move: (0, 2, 0, 9, 0) -> Move String: b, 3
+Move: (0, 2, 0, 10, 0) -> Move String: b, 3
+Move: (0, 2, 0, 11, 0) -> Move String: b, 3
+Move: (0, 2, 1, 0, 0) -> Move String: b, 3, 1
+Move: (0, 2, 1, 0, 1) -> Move String: b, 3, 1, 3
+Move: (0, 2, 1, 0, 2) -> Move String: b, 3, 1, 1
+Move: (0, 2, 1, 1, 0) -> Move String: b, 3, 2
+Move: (0, 2, 1, 1, 1) -> Move String: b, 3, 2, 3
+Move: (0, 2, 1, 1, 2) -> Move String: b, 3, 2, 2
+Move: (0, 2, 1, 2, 0) -> Move String: b, 3, 3
+Move: (0, 2, 1, 2, 1) -> Move String: b, 3, 3, 3
+Move: (0, 2, 1, 2, 2) -> Move String: b, 3, 3, 3
+Move: (0, 2, 1, 3, 0) -> Move String: b, 3, 4
+Move: (0, 2, 1, 3, 1) -> Move String: b, 3, 4, 3
+Move: (0, 2, 1, 3, 2) -> Move String: b, 3, 4, 4
+Move: (0, 2, 1, 4, 0) -> Move String: b, 3, 5
+Move: (0, 2, 1, 4, 1) -> Move String: b, 3, 5, 3
+Move: (0, 2, 1, 4, 2) -> Move String: b, 3, 5, 5
+Move: (0, 2, 1, 5, 0) -> Move String: b, 3, 6
+Move: (0, 2, 1, 5, 1) -> Move String: b, 3, 6, 3
+Move: (0, 2, 1, 5, 2) -> Move String: b, 3, 6, 6
+Move: (0, 2, 1, 6, 0) -> Move String: b, 3, 7
+Move: (0, 2, 1, 6, 1) -> Move String: b, 3, 7, 3
+Move: (0, 2, 1, 6, 2) -> Move String: b, 3, 7, 7
+Move: (0, 2, 1, 7, 0) -> Move String: b, 3, 8
+Move: (0, 2, 1, 7, 1) -> Move String: b, 3, 8, 3
+Move: (0, 2, 1, 7, 2) -> Move String: b, 3, 8, 8
+Move: (0, 2, 1, 8, 0) -> Move String: b, 3, 9
+Move: (0, 2, 1, 8, 1) -> Move String: b, 3, 9, 3
+Move: (0, 2, 1, 8, 2) -> Move String: b, 3, 9, 9
+Move: (0, 2, 1, 9, 0) -> Move String: b, 3, 10
+Move: (0, 2, 1, 9, 1) -> Move String: b, 3, 10, 3
+Move: (0, 2, 1, 9, 2) -> Move String: b, 3, 10, 10
+Move: (0, 2, 1, 10, 0) -> Move String: b, 3, 11
+Move: (0, 2, 1, 10, 1) -> Move String: b, 3, 11, 3
+Move: (0, 2, 1, 10, 2) -> Move String: b, 3, 11, 11
+Move: (0, 2, 1, 11, 0) -> Move String: b, 3, 12
+Move: (0, 2, 1, 11, 1) -> Move String: b, 3, 12, 3
+Move: (0, 2, 1, 11, 2) -> Move String: b, 3, 12, 12
+Move: (0, 3, 0, 0, 0) -> Move String: b, 4
+Move: (0, 3, 0, 1, 0) -> Move String: b, 4
+Move: (0, 3, 0, 2, 0) -> Move String: b, 4
+Move: (0, 3, 0, 3, 0) -> Move String: b, 4
+Move: (0, 3, 0, 4, 0) -> Move String: b, 4
+Move: (0, 3, 0, 5, 0) -> Move String: b, 4
+Move: (0, 3, 0, 6, 0) -> Move String: b, 4
+Move: (0, 3, 0, 7, 0) -> Move String: b, 4
+Move: (0, 3, 0, 8, 0) -> Move String: b, 4
+Move: (0, 3, 0, 9, 0) -> Move String: b, 4
+Move: (0, 3, 0, 10, 0) -> Move String: b, 4
+Move: (0, 3, 0, 11, 0) -> Move String: b, 4
+Move: (0, 3, 1, 0, 0) -> Move String: b, 4, 1
+Move: (0, 3, 1, 0, 1) -> Move String: b, 4, 1, 4
+Move: (0, 3, 1, 0, 2) -> Move String: b, 4, 1, 1
+Move: (0, 3, 1, 1, 0) -> Move String: b, 4, 2
+Move: (0, 3, 1, 1, 1) -> Move String: b, 4, 2, 4
+Move: (0, 3, 1, 1, 2) -> Move String: b, 4, 2, 2
+Move: (0, 3, 1, 2, 0) -> Move String: b, 4, 3
+Move: (0, 3, 1, 2, 1) -> Move String: b, 4, 3, 4
+Move: (0, 3, 1, 2, 2) -> Move String: b, 4, 3, 3
+Move: (0, 3, 1, 3, 0) -> Move String: b, 4, 4
+Move: (0, 3, 1, 3, 1) -> Move String: b, 4, 4, 4
+Move: (0, 3, 1, 3, 2) -> Move String: b, 4, 4, 4
+Move: (0, 3, 1, 4, 0) -> Move String: b, 4, 5
+Move: (0, 3, 1, 4, 1) -> Move String: b, 4, 5, 4
+Move: (0, 3, 1, 4, 2) -> Move String: b, 4, 5, 5
+Move: (0, 3, 1, 5, 0) -> Move String: b, 4, 6
+Move: (0, 3, 1, 5, 1) -> Move String: b, 4, 6, 4
+Move: (0, 3, 1, 5, 2) -> Move String: b, 4, 6, 6
+Move: (0, 3, 1, 6, 0) -> Move String: b, 4, 7
+Move: (0, 3, 1, 6, 1) -> Move String: b, 4, 7, 4
+Move: (0, 3, 1, 6, 2) -> Move String: b, 4, 7, 7
+Move: (0, 3, 1, 7, 0) -> Move String: b, 4, 8
+Move: (0, 3, 1, 7, 1) -> Move String: b, 4, 8, 4
+Move: (0, 3, 1, 7, 2) -> Move String: b, 4, 8, 8
+Move: (0, 3, 1, 8, 0) -> Move String: b, 4, 9
+Move: (0, 3, 1, 8, 1) -> Move String: b, 4, 9, 4
+Move: (0, 3, 1, 8, 2) -> Move String: b, 4, 9, 9
+Move: (0, 3, 1, 9, 0) -> Move String: b, 4, 10
+Move: (0, 3, 1, 9, 1) -> Move String: b, 4, 10, 4
+Move: (0, 3, 1, 9, 2) -> Move String: b, 4, 10, 10
+Move: (0, 3, 1, 10, 0) -> Move String: b, 4, 11
+Move: (0, 3, 1, 10, 1) -> Move String: b, 4, 11, 4
+Move: (0, 3, 1, 10, 2) -> Move String: b, 4, 11, 11
+Move: (0, 3, 1, 11, 0) -> Move String: b, 4, 12
+Move: (0, 3, 1, 11, 1) -> Move String: b, 4, 12, 4
+Move: (0, 3, 1, 11, 2) -> Move String: b, 4, 12, 12
+Move: (0, 4, 0, 0, 0) -> Move String: b, 5
+Move: (0, 4, 0, 1, 0) -> Move String: b, 5
+Move: (0, 4, 0, 2, 0) -> Move String: b, 5
+Move: (0, 4, 0, 3, 0) -> Move String: b, 5
+Move: (0, 4, 0, 4, 0) -> Move String: b, 5
+Move: (0, 4, 0, 5, 0) -> Move String: b, 5
+Move: (0, 4, 0, 6, 0) -> Move String: b, 5
+Move: (0, 4, 0, 7, 0) -> Move String: b, 5
+Move: (0, 4, 0, 8, 0) -> Move String: b, 5
+Move: (0, 4, 0, 9, 0) -> Move String: b, 5
+Move: (0, 4, 0, 10, 0) -> Move String: b, 5
+Move: (0, 4, 0, 11, 0) -> Move String: b, 5
+Move: (0, 4, 1, 0, 0) -> Move String: b, 5, 1
+Move: (0, 4, 1, 0, 1) -> Move String: b, 5, 1, 5
+Move: (0, 4, 1, 0, 2) -> Move String: b, 5, 1, 1
+Move: (0, 4, 1, 1, 0) -> Move String: b, 5, 2
+Move: (0, 4, 1, 1, 1) -> Move String: b, 5, 2, 5
+Move: (0, 4, 1, 1, 2) -> Move String: b, 5, 2, 2
+Move: (0, 4, 1, 2, 0) -> Move String: b, 5, 3
+Move: (0, 4, 1, 2, 1) -> Move String: b, 5, 3, 5
+Move: (0, 4, 1, 2, 2) -> Move String: b, 5, 3, 3
+Move: (0, 4, 1, 3, 0) -> Move String: b, 5, 4
+Move: (0, 4, 1, 3, 1) -> Move String: b, 5, 4, 5
+Move: (0, 4, 1, 3, 2) -> Move String: b, 5, 4, 4
+Move: (0, 4, 1, 4, 0) -> Move String: b, 5, 5
+Move: (0, 4, 1, 4, 1) -> Move String: b, 5, 5, 5
+Move: (0, 4, 1, 4, 2) -> Move String: b, 5, 5, 5
+Move: (0, 4, 1, 5, 0) -> Move String: b, 5, 6
+Move: (0, 4, 1, 5, 1) -> Move String: b, 5, 6, 5
+Move: (0, 4, 1, 5, 2) -> Move String: b, 5, 6, 6
+Move: (0, 4, 1, 6, 0) -> Move String: b, 5, 7
+Move: (0, 4, 1, 6, 1) -> Move String: b, 5, 7, 5
+Move: (0, 4, 1, 6, 2) -> Move String: b, 5, 7, 7
+Move: (0, 4, 1, 7, 0) -> Move String: b, 5, 8
+Move: (0, 4, 1, 7, 1) -> Move String: b, 5, 8, 5
+Move: (0, 4, 1, 7, 2) -> Move String: b, 5, 8, 8
+Move: (0, 4, 1, 8, 0) -> Move String: b, 5, 9
+Move: (0, 4, 1, 8, 1) -> Move String: b, 5, 9, 5
+Move: (0, 4, 1, 8, 2) -> Move String: b, 5, 9, 9
+Move: (0, 4, 1, 9, 0) -> Move String: b, 5, 10
+Move: (0, 4, 1, 9, 1) -> Move String: b, 5, 10, 5
+Move: (0, 4, 1, 9, 2) -> Move String: b, 5, 10, 10
+Move: (0, 4, 1, 10, 0) -> Move String: b, 5, 11
+Move: (0, 4, 1, 10, 1) -> Move String: b, 5, 11, 5
+Move: (0, 4, 1, 10, 2) -> Move String: b, 5, 11, 11
+Move: (0, 4, 1, 11, 0) -> Move String: b, 5, 12
+Move: (0, 4, 1, 11, 1) -> Move String: b, 5, 12, 5
+Move: (0, 4, 1, 11, 2) -> Move String: b, 5, 12, 12
+Move: (0, 5, 0, 0, 0) -> Move String: b, 6
+Move: (0, 5, 0, 1, 0) -> Move String: b, 6
+Move: (0, 5, 0, 2, 0) -> Move String: b, 6
+Move: (0, 5, 0, 3, 0) -> Move String: b, 6
+Move: (0, 5, 0, 4, 0) -> Move String: b, 6
+Move: (0, 5, 0, 5, 0) -> Move String: b, 6
+Move: (0, 5, 0, 6, 0) -> Move String: b, 6
+Move: (0, 5, 0, 7, 0) -> Move String: b, 6
+Move: (0, 5, 0, 8, 0) -> Move String: b, 6
+Move: (0, 5, 0, 9, 0) -> Move String: b, 6
+Move: (0, 5, 0, 10, 0) -> Move String: b, 6
+Move: (0, 5, 0, 11, 0) -> Move String: b, 6
+Move: (0, 5, 1, 0, 0) -> Move String: b, 6, 1
+Move: (0, 5, 1, 0, 1) -> Move String: b, 6, 1, 6
+Move: (0, 5, 1, 0, 2) -> Move String: b, 6, 1, 1
+Move: (0, 5, 1, 1, 0) -> Move String: b, 6, 2
+Move: (0, 5, 1, 1, 1) -> Move String: b, 6, 2, 6
+Move: (0, 5, 1, 1, 2) -> Move String: b, 6, 2, 2
+Move: (0, 5, 1, 2, 0) -> Move String: b, 6, 3
+Move: (0, 5, 1, 2, 1) -> Move String: b, 6, 3, 6
+Move: (0, 5, 1, 2, 2) -> Move String: b, 6, 3, 3
+Move: (0, 5, 1, 3, 0) -> Move String: b, 6, 4
+Move: (0, 5, 1, 3, 1) -> Move String: b, 6, 4, 6
+Move: (0, 5, 1, 3, 2) -> Move String: b, 6, 4, 4
+Move: (0, 5, 1, 4, 0) -> Move String: b, 6, 5
+Move: (0, 5, 1, 4, 1) -> Move String: b, 6, 5, 6
+Move: (0, 5, 1, 4, 2) -> Move String: b, 6, 5, 5
+Move: (0, 5, 1, 5, 0) -> Move String: b, 6, 6
+Move: (0, 5, 1, 5, 1) -> Move String: b, 6, 6, 6
+Move: (0, 5, 1, 5, 2) -> Move String: b, 6, 6, 6
+Move: (0, 5, 1, 6, 0) -> Move String: b, 6, 7
+Move: (0, 5, 1, 6, 1) -> Move String: b, 6, 7, 6
+Move: (0, 5, 1, 6, 2) -> Move String: b, 6, 7, 7
+Move: (0, 5, 1, 7, 0) -> Move String: b, 6, 8
+Move: (0, 5, 1, 7, 1) -> Move String: b, 6, 8, 6
+Move: (0, 5, 1, 7, 2) -> Move String: b, 6, 8, 8
+Move: (0, 5, 1, 8, 0) -> Move String: b, 6, 9
+Move: (0, 5, 1, 8, 1) -> Move String: b, 6, 9, 6
+Move: (0, 5, 1, 8, 2) -> Move String: b, 6, 9, 9
+Move: (0, 5, 1, 9, 0) -> Move String: b, 6, 10
+Move: (0, 5, 1, 9, 1) -> Move String: b, 6, 10, 6
+Move: (0, 5, 1, 9, 2) -> Move String: b, 6, 10, 10
+Move: (0, 5, 1, 10, 0) -> Move String: b, 6, 11
+Move: (0, 5, 1, 10, 1) -> Move String: b, 6, 11, 6
+Move: (0, 5, 1, 10, 2) -> Move String: b, 6, 11, 11
+Move: (0, 5, 1, 11, 0) -> Move String: b, 6, 12
+Move: (0, 5, 1, 11, 1) -> Move String: b, 6, 12, 6
+Move: (0, 5, 1, 11, 2) -> Move String: b, 6, 12, 12
+Move: (0, 6, 0, 0, 0) -> Move String: b, 7
+Move: (0, 6, 0, 1, 0) -> Move String: b, 7
+Move: (0, 6, 0, 2, 0) -> Move String: b, 7
+Move: (0, 6, 0, 3, 0) -> Move String: b, 7
+Move: (0, 6, 0, 4, 0) -> Move String: b, 7
+Move: (0, 6, 0, 5, 0) -> Move String: b, 7
+Move: (0, 6, 0, 6, 0) -> Move String: b, 7
+Move: (0, 6, 0, 7, 0) -> Move String: b, 7
+Move: (0, 6, 0, 8, 0) -> Move String: b, 7
+Move: (0, 6, 0, 9, 0) -> Move String: b, 7
+Move: (0, 6, 0, 10, 0) -> Move String: b, 7
+Move: (0, 6, 0, 11, 0) -> Move String: b, 7
+Move: (0, 6, 1, 0, 0) -> Move String: b, 7, 1
+Move: (0, 6, 1, 0, 1) -> Move String: b, 7, 1, 7
+Move: (0, 6, 1, 0, 2) -> Move String: b, 7, 1, 1
+Move: (0, 6, 1, 1, 0) -> Move String: b, 7, 2
+Move: (0, 6, 1, 1, 1) -> Move String: b, 7, 2, 7
+Move: (0, 6, 1, 1, 2) -> Move String: b, 7, 2, 2
+Move: (0, 6, 1, 2, 0) -> Move String: b, 7, 3
+Move: (0, 6, 1, 2, 1) -> Move String: b, 7, 3, 7
+Move: (0, 6, 1, 2, 2) -> Move String: b, 7, 3, 3
+Move: (0, 6, 1, 3, 0) -> Move String: b, 7, 4
+Move: (0, 6, 1, 3, 1) -> Move String: b, 7, 4, 7
+Move: (0, 6, 1, 3, 2) -> Move String: b, 7, 4, 4
+Move: (0, 6, 1, 4, 0) -> Move String: b, 7, 5
+Move: (0, 6, 1, 4, 1) -> Move String: b, 7, 5, 7
+Move: (0, 6, 1, 4, 2) -> Move String: b, 7, 5, 5
+Move: (0, 6, 1, 5, 0) -> Move String: b, 7, 6
+Move: (0, 6, 1, 5, 1) -> Move String: b, 7, 6, 7
+Move: (0, 6, 1, 5, 2) -> Move String: b, 7, 6, 6
+Move: (0, 6, 1, 6, 0) -> Move String: b, 7, 7
+Move: (0, 6, 1, 6, 1) -> Move String: b, 7, 7, 7
+Move: (0, 6, 1, 6, 2) -> Move String: b, 7, 7, 7
+Move: (0, 6, 1, 7, 0) -> Move String: b, 7, 8
+Move: (0, 6, 1, 7, 1) -> Move String: b, 7, 8, 7
+Move: (0, 6, 1, 7, 2) -> Move String: b, 7, 8, 8
+Move: (0, 6, 1, 8, 0) -> Move String: b, 7, 9
+Move: (0, 6, 1, 8, 1) -> Move String: b, 7, 9, 7
+Move: (0, 6, 1, 8, 2) -> Move String: b, 7, 9, 9
+Move: (0, 6, 1, 9, 0) -> Move String: b, 7, 10
+Move: (0, 6, 1, 9, 1) -> Move String: b, 7, 10, 7
+Move: (0, 6, 1, 9, 2) -> Move String: b, 7, 10, 10
+Move: (0, 6, 1, 10, 0) -> Move String: b, 7, 11
+Move: (0, 6, 1, 10, 1) -> Move String: b, 7, 11, 7
+Move: (0, 6, 1, 10, 2) -> Move String: b, 7, 11, 11
+Move: (0, 6, 1, 11, 0) -> Move String: b, 7, 12
+Move: (0, 6, 1, 11, 1) -> Move String: b, 7, 12, 7
+Move: (0, 6, 1, 11, 2) -> Move String: b, 7, 12, 12
+Move: (0, 7, 0, 0, 0) -> Move String: b, 8
+Move: (0, 7, 0, 1, 0) -> Move String: b, 8
+Move: (0, 7, 0, 2, 0) -> Move String: b, 8
+Move: (0, 7, 0, 3, 0) -> Move String: b, 8
+Move: (0, 7, 0, 4, 0) -> Move String: b, 8
+Move: (0, 7, 0, 5, 0) -> Move String: b, 8
+Move: (0, 7, 0, 6, 0) -> Move String: b, 8
+Move: (0, 7, 0, 7, 0) -> Move String: b, 8
+Move: (0, 7, 0, 8, 0) -> Move String: b, 8
+Move: (0, 7, 0, 9, 0) -> Move String: b, 8
+Move: (0, 7, 0, 10, 0) -> Move String: b, 8
+Move: (0, 7, 0, 11, 0) -> Move String: b, 8
+Move: (0, 7, 1, 0, 0) -> Move String: b, 8, 1
+Move: (0, 7, 1, 0, 1) -> Move String: b, 8, 1, 8
+Move: (0, 7, 1, 0, 2) -> Move String: b, 8, 1, 1
+Move: (0, 7, 1, 1, 0) -> Move String: b, 8, 2
+Move: (0, 7, 1, 1, 1) -> Move String: b, 8, 2, 8
+Move: (0, 7, 1, 1, 2) -> Move String: b, 8, 2, 2
+Move: (0, 7, 1, 2, 0) -> Move String: b, 8, 3
+Move: (0, 7, 1, 2, 1) -> Move String: b, 8, 3, 8
+Move: (0, 7, 1, 2, 2) -> Move String: b, 8, 3, 3
+Move: (0, 7, 1, 3, 0) -> Move String: b, 8, 4
+Move: (0, 7, 1, 3, 1) -> Move String: b, 8, 4, 8
+Move: (0, 7, 1, 3, 2) -> Move String: b, 8, 4, 4
+Move: (0, 7, 1, 4, 0) -> Move String: b, 8, 5
+Move: (0, 7, 1, 4, 1) -> Move String: b, 8, 5, 8
+Move: (0, 7, 1, 4, 2) -> Move String: b, 8, 5, 5
+Move: (0, 7, 1, 5, 0) -> Move String: b, 8, 6
+Move: (0, 7, 1, 5, 1) -> Move String: b, 8, 6, 8
+Move: (0, 7, 1, 5, 2) -> Move String: b, 8, 6, 6
+Move: (0, 7, 1, 6, 0) -> Move String: b, 8, 7
+Move: (0, 7, 1, 6, 1) -> Move String: b, 8, 7, 8
+Move: (0, 7, 1, 6, 2) -> Move String: b, 8, 7, 7
+Move: (0, 7, 1, 7, 0) -> Move String: b, 8, 8
+Move: (0, 7, 1, 7, 1) -> Move String: b, 8, 8, 8
+Move: (0, 7, 1, 7, 2) -> Move String: b, 8, 8, 8
+Move: (0, 7, 1, 8, 0) -> Move String: b, 8, 9
+Move: (0, 7, 1, 8, 1) -> Move String: b, 8, 9, 8
+Move: (0, 7, 1, 8, 2) -> Move String: b, 8, 9, 9
+Move: (0, 7, 1, 9, 0) -> Move String: b, 8, 10
+Move: (0, 7, 1, 9, 1) -> Move String: b, 8, 10, 8
+Move: (0, 7, 1, 9, 2) -> Move String: b, 8, 10, 10
+Move: (0, 7, 1, 10, 0) -> Move String: b, 8, 11
+Move: (0, 7, 1, 10, 1) -> Move String: b, 8, 11, 8
+Move: (0, 7, 1, 10, 2) -> Move String: b, 8, 11, 11
+Move: (0, 7, 1, 11, 0) -> Move String: b, 8, 12
+Move: (0, 7, 1, 11, 1) -> Move String: b, 8, 12, 8
+Move: (0, 7, 1, 11, 2) -> Move String: b, 8, 12, 12
+Move: (0, 8, 0, 0, 0) -> Move String: b, 9
+Move: (0, 8, 0, 1, 0) -> Move String: b, 9
+Move: (0, 8, 0, 2, 0) -> Move String: b, 9
+Move: (0, 8, 0, 3, 0) -> Move String: b, 9
+Move: (0, 8, 0, 4, 0) -> Move String: b, 9
+Move: (0, 8, 0, 5, 0) -> Move String: b, 9
+Move: (0, 8, 0, 6, 0) -> Move String: b, 9
+Move: (0, 8, 0, 7, 0) -> Move String: b, 9
+Move: (0, 8, 0, 8, 0) -> Move String: b, 9
+Move: (0, 8, 0, 9, 0) -> Move String: b, 9
+Move: (0, 8, 0, 10, 0) -> Move String: b, 9
+Move: (0, 8, 0, 11, 0) -> Move String: b, 9
+Move: (0, 8, 1, 0, 0) -> Move String: b, 9, 1
+Move: (0, 8, 1, 0, 1) -> Move String: b, 9, 1, 9
+Move: (0, 8, 1, 0, 2) -> Move String: b, 9, 1, 1
+Move: (0, 8, 1, 1, 0) -> Move String: b, 9, 2
+Move: (0, 8, 1, 1, 1) -> Move String: b, 9, 2, 9
+Move: (0, 8, 1, 1, 2) -> Move String: b, 9, 2, 2
+Move: (0, 8, 1, 2, 0) -> Move String: b, 9, 3
+Move: (0, 8, 1, 2, 1) -> Move String: b, 9, 3, 9
+Move: (0, 8, 1, 2, 2) -> Move String: b, 9, 3, 3
+Move: (0, 8, 1, 3, 0) -> Move String: b, 9, 4
+Move: (0, 8, 1, 3, 1) -> Move String: b, 9, 4, 9
+Move: (0, 8, 1, 3, 2) -> Move String: b, 9, 4, 4
+Move: (0, 8, 1, 4, 0) -> Move String: b, 9, 5
+Move: (0, 8, 1, 4, 1) -> Move String: b, 9, 5, 9
+Move: (0, 8, 1, 4, 2) -> Move String: b, 9, 5, 5
+Move: (0, 8, 1, 5, 0) -> Move String: b, 9, 6
+Move: (0, 8, 1, 5, 1) -> Move String: b, 9, 6, 9
+Move: (0, 8, 1, 5, 2) -> Move String: b, 9, 6, 6
+Move: (0, 8, 1, 6, 0) -> Move String: b, 9, 7
+Move: (0, 8, 1, 6, 1) -> Move String: b, 9, 7, 9
+Move: (0, 8, 1, 6, 2) -> Move String: b, 9, 7, 7
+Move: (0, 8, 1, 7, 0) -> Move String: b, 9, 8
+Move: (0, 8, 1, 7, 1) -> Move String: b, 9, 8, 9
+Move: (0, 8, 1, 7, 2) -> Move String: b, 9, 8, 8
+Move: (0, 8, 1, 8, 0) -> Move String: b, 9, 9
+Move: (0, 8, 1, 8, 1) -> Move String: b, 9, 9, 9
+Move: (0, 8, 1, 8, 2) -> Move String: b, 9, 9, 9
+Move: (0, 8, 1, 9, 0) -> Move String: b, 9, 10
+Move: (0, 8, 1, 9, 1) -> Move String: b, 9, 10, 9
+Move: (0, 8, 1, 9, 2) -> Move String: b, 9, 10, 10
+Move: (0, 8, 1, 10, 0) -> Move String: b, 9, 11
+Move: (0, 8, 1, 10, 1) -> Move String: b, 9, 11, 9
+Move: (0, 8, 1, 10, 2) -> Move String: b, 9, 11, 11
+Move: (0, 8, 1, 11, 0) -> Move String: b, 9, 12
+Move: (0, 8, 1, 11, 1) -> Move String: b, 9, 12, 9
+Move: (0, 8, 1, 11, 2) -> Move String: b, 9, 12, 12
+Move: (0, 9, 0, 0, 0) -> Move String: b, 10
+Move: (0, 9, 0, 1, 0) -> Move String: b, 10
+Move: (0, 9, 0, 2, 0) -> Move String: b, 10
+Move: (0, 9, 0, 3, 0) -> Move String: b, 10
+Move: (0, 9, 0, 4, 0) -> Move String: b, 10
+Move: (0, 9, 0, 5, 0) -> Move String: b, 10
+Move: (0, 9, 0, 6, 0) -> Move String: b, 10
+Move: (0, 9, 0, 7, 0) -> Move String: b, 10
+Move: (0, 9, 0, 8, 0) -> Move String: b, 10
+Move: (0, 9, 0, 9, 0) -> Move String: b, 10
+Move: (0, 9, 0, 10, 0) -> Move String: b, 10
+Move: (0, 9, 0, 11, 0) -> Move String: b, 10
+Move: (0, 9, 1, 0, 0) -> Move String: b, 10, 1
+Move: (0, 9, 1, 0, 1) -> Move String: b, 10, 1, 10
+Move: (0, 9, 1, 0, 2) -> Move String: b, 10, 1, 1
+Move: (0, 9, 1, 1, 0) -> Move String: b, 10, 2
+Move: (0, 9, 1, 1, 1) -> Move String: b, 10, 2, 10
+Move: (0, 9, 1, 1, 2) -> Move String: b, 10, 2, 2
+Move: (0, 9, 1, 2, 0) -> Move String: b, 10, 3
+Move: (0, 9, 1, 2, 1) -> Move String: b, 10, 3, 10
+Move: (0, 9, 1, 2, 2) -> Move String: b, 10, 3, 3
+Move: (0, 9, 1, 3, 0) -> Move String: b, 10, 4
+Move: (0, 9, 1, 3, 1) -> Move String: b, 10, 4, 10
+Move: (0, 9, 1, 3, 2) -> Move String: b, 10, 4, 4
+Move: (0, 9, 1, 4, 0) -> Move String: b, 10, 5
+Move: (0, 9, 1, 4, 1) -> Move String: b, 10, 5, 10
+Move: (0, 9, 1, 4, 2) -> Move String: b, 10, 5, 5
+Move: (0, 9, 1, 5, 0) -> Move String: b, 10, 6
+Move: (0, 9, 1, 5, 1) -> Move String: b, 10, 6, 10
+Move: (0, 9, 1, 5, 2) -> Move String: b, 10, 6, 6
+Move: (0, 9, 1, 6, 0) -> Move String: b, 10, 7
+Move: (0, 9, 1, 6, 1) -> Move String: b, 10, 7, 10
+Move: (0, 9, 1, 6, 2) -> Move String: b, 10, 7, 7
+Move: (0, 9, 1, 7, 0) -> Move String: b, 10, 8
+Move: (0, 9, 1, 7, 1) -> Move String: b, 10, 8, 10
+Move: (0, 9, 1, 7, 2) -> Move String: b, 10, 8, 8
+Move: (0, 9, 1, 8, 0) -> Move String: b, 10, 9
+Move: (0, 9, 1, 8, 1) -> Move String: b, 10, 9, 10
+Move: (0, 9, 1, 8, 2) -> Move String: b, 10, 9, 9
+Move: (0, 9, 1, 9, 0) -> Move String: b, 10, 10
+Move: (0, 9, 1, 9, 1) -> Move String: b, 10, 10, 10
+Move: (0, 9, 1, 9, 2) -> Move String: b, 10, 10, 10
+Move: (0, 9, 1, 10, 0) -> Move String: b, 10, 11
+Move: (0, 9, 1, 10, 1) -> Move String: b, 10, 11, 10
+Move: (0, 9, 1, 10, 2) -> Move String: b, 10, 11, 11
+Move: (0, 9, 1, 11, 0) -> Move String: b, 10, 12
+Move: (0, 9, 1, 11, 1) -> Move String: b, 10, 12, 10
+Move: (0, 9, 1, 11, 2) -> Move String: b, 10, 12, 12
+Move: (0, 10, 0, 0, 0) -> Move String: b, 11
+Move: (0, 10, 0, 1, 0) -> Move String: b, 11
+Move: (0, 10, 0, 2, 0) -> Move String: b, 11
+Move: (0, 10, 0, 3, 0) -> Move String: b, 11
+Move: (0, 10, 0, 4, 0) -> Move String: b, 11
+Move: (0, 10, 0, 5, 0) -> Move String: b, 11
+Move: (0, 10, 0, 6, 0) -> Move String: b, 11
+Move: (0, 10, 0, 7, 0) -> Move String: b, 11
+Move: (0, 10, 0, 8, 0) -> Move String: b, 11
+Move: (0, 10, 0, 9, 0) -> Move String: b, 11
+Move: (0, 10, 0, 10, 0) -> Move String: b, 11
+Move: (0, 10, 0, 11, 0) -> Move String: b, 11
+Move: (0, 10, 1, 0, 0) -> Move String: b, 11, 1
+Move: (0, 10, 1, 0, 1) -> Move String: b, 11, 1, 11
+Move: (0, 10, 1, 0, 2) -> Move String: b, 11, 1, 1
+Move: (0, 10, 1, 1, 0) -> Move String: b, 11, 2
+Move: (0, 10, 1, 1, 1) -> Move String: b, 11, 2, 11
+Move: (0, 10, 1, 1, 2) -> Move String: b, 11, 2, 2
+Move: (0, 10, 1, 2, 0) -> Move String: b, 11, 3
+Move: (0, 10, 1, 2, 1) -> Move String: b, 11, 3, 11
+Move: (0, 10, 1, 2, 2) -> Move String: b, 11, 3, 3
+Move: (0, 10, 1, 3, 0) -> Move String: b, 11, 4
+Move: (0, 10, 1, 3, 1) -> Move String: b, 11, 4, 11
+Move: (0, 10, 1, 3, 2) -> Move String: b, 11, 4, 4
+Move: (0, 10, 1, 4, 0) -> Move String: b, 11, 5
+Move: (0, 10, 1, 4, 1) -> Move String: b, 11, 5, 11
+Move: (0, 10, 1, 4, 2) -> Move String: b, 11, 5, 5
+Move: (0, 10, 1, 5, 0) -> Move String: b, 11, 6
+Move: (0, 10, 1, 5, 1) -> Move String: b, 11, 6, 11
+Move: (0, 10, 1, 5, 2) -> Move String: b, 11, 6, 6
+Move: (0, 10, 1, 6, 0) -> Move String: b, 11, 7
+Move: (0, 10, 1, 6, 1) -> Move String: b, 11, 7, 11
+Move: (0, 10, 1, 6, 2) -> Move String: b, 11, 7, 7
+Move: (0, 10, 1, 7, 0) -> Move String: b, 11, 8
+Move: (0, 10, 1, 7, 1) -> Move String: b, 11, 8, 11
+Move: (0, 10, 1, 7, 2) -> Move String: b, 11, 8, 8
+Move: (0, 10, 1, 8, 0) -> Move String: b, 11, 9
+Move: (0, 10, 1, 8, 1) -> Move String: b, 11, 9, 11
+Move: (0, 10, 1, 8, 2) -> Move String: b, 11, 9, 9
+Move: (0, 10, 1, 9, 0) -> Move String: b, 11, 10
+Move: (0, 10, 1, 9, 1) -> Move String: b, 11, 10, 11
+Move: (0, 10, 1, 9, 2) -> Move String: b, 11, 10, 10
+Move: (0, 10, 1, 10, 0) -> Move String: b, 11, 11
+Move: (0, 10, 1, 10, 1) -> Move String: b, 11, 11, 11
+Move: (0, 10, 1, 10, 2) -> Move String: b, 11, 11, 11
+Move: (0, 10, 1, 11, 0) -> Move String: b, 11, 12
+Move: (0, 10, 1, 11, 1) -> Move String: b, 11, 12, 11
+Move: (0, 10, 1, 11, 2) -> Move String: b, 11, 12, 12
+Move: (0, 11, 0, 0, 0) -> Move String: b, 12
+Move: (0, 11, 0, 1, 0) -> Move String: b, 12
+Move: (0, 11, 0, 2, 0) -> Move String: b, 12
+Move: (0, 11, 0, 3, 0) -> Move String: b, 12
+Move: (0, 11, 0, 4, 0) -> Move String: b, 12
+Move: (0, 11, 0, 5, 0) -> Move String: b, 12
+Move: (0, 11, 0, 6, 0) -> Move String: b, 12
+Move: (0, 11, 0, 7, 0) -> Move String: b, 12
+Move: (0, 11, 0, 8, 0) -> Move String: b, 12
+Move: (0, 11, 0, 9, 0) -> Move String: b, 12
+Move: (0, 11, 0, 10, 0) -> Move String: b, 12
+Move: (0, 11, 0, 11, 0) -> Move String: b, 12
+Move: (0, 11, 1, 0, 0) -> Move String: b, 12, 1
+Move: (0, 11, 1, 0, 1) -> Move String: b, 12, 1, 12
+Move: (0, 11, 1, 0, 2) -> Move String: b, 12, 1, 1
+Move: (0, 11, 1, 1, 0) -> Move String: b, 12, 2
+Move: (0, 11, 1, 1, 1) -> Move String: b, 12, 2, 12
+Move: (0, 11, 1, 1, 2) -> Move String: b, 12, 2, 2
+Move: (0, 11, 1, 2, 0) -> Move String: b, 12, 3
+Move: (0, 11, 1, 2, 1) -> Move String: b, 12, 3, 12
+Move: (0, 11, 1, 2, 2) -> Move String: b, 12, 3, 3
+Move: (0, 11, 1, 3, 0) -> Move String: b, 12, 4
+Move: (0, 11, 1, 3, 1) -> Move String: b, 12, 4, 12
+Move: (0, 11, 1, 3, 2) -> Move String: b, 12, 4, 4
+Move: (0, 11, 1, 4, 0) -> Move String: b, 12, 5
+Move: (0, 11, 1, 4, 1) -> Move String: b, 12, 5, 12
+Move: (0, 11, 1, 4, 2) -> Move String: b, 12, 5, 5
+Move: (0, 11, 1, 5, 0) -> Move String: b, 12, 6
+Move: (0, 11, 1, 5, 1) -> Move String: b, 12, 6, 12
+Move: (0, 11, 1, 5, 2) -> Move String: b, 12, 6, 6
+Move: (0, 11, 1, 6, 0) -> Move String: b, 12, 7
+Move: (0, 11, 1, 6, 1) -> Move String: b, 12, 7, 12
+Move: (0, 11, 1, 6, 2) -> Move String: b, 12, 7, 7
+Move: (0, 11, 1, 7, 0) -> Move String: b, 12, 8
+Move: (0, 11, 1, 7, 1) -> Move String: b, 12, 8, 12
+Move: (0, 11, 1, 7, 2) -> Move String: b, 12, 8, 8
+Move: (0, 11, 1, 8, 0) -> Move String: b, 12, 9
+Move: (0, 11, 1, 8, 1) -> Move String: b, 12, 9, 12
+Move: (0, 11, 1, 8, 2) -> Move String: b, 12, 9, 9
+Move: (0, 11, 1, 9, 0) -> Move String: b, 12, 10
+Move: (0, 11, 1, 9, 1) -> Move String: b, 12, 10, 12
+Move: (0, 11, 1, 9, 2) -> Move String: b, 12, 10, 10
+Move: (0, 11, 1, 10, 0) -> Move String: b, 12, 11
+Move: (0, 11, 1, 10, 1) -> Move String: b, 12, 11, 12
+Move: (0, 11, 1, 10, 2) -> Move String: b, 12, 11, 11
+Move: (0, 11, 1, 11, 0) -> Move String: b, 12, 12
+Move: (0, 11, 1, 11, 1) -> Move String: b, 12, 12, 12
+Move: (0, 11, 1, 11, 2) -> Move String: b, 12, 12, 12
+Move: (1, 0, 0, 0, 0) -> Move String: r, 1
+Move: (1, 0, 0, 1, 0) -> Move String: r, 1
+Move: (1, 0, 0, 2, 0) -> Move String: r, 1
+Move: (1, 0, 0, 3, 0) -> Move String: r, 1
+Move: (1, 0, 0, 4, 0) -> Move String: r, 1
+Move: (1, 0, 0, 5, 0) -> Move String: r, 1
+Move: (1, 0, 0, 6, 0) -> Move String: r, 1
+Move: (1, 0, 0, 7, 0) -> Move String: r, 1
+Move: (1, 0, 0, 8, 0) -> Move String: r, 1
+Move: (1, 0, 0, 9, 0) -> Move String: r, 1
+Move: (1, 0, 0, 10, 0) -> Move String: r, 1
+Move: (1, 0, 0, 11, 0) -> Move String: r, 1
+Move: (1, 0, 1, 0, 0) -> Move String: r, 1, 1
+Move: (1, 0, 1, 0, 1) -> Move String: r, 1, 1, 1
+Move: (1, 0, 1, 0, 2) -> Move String: r, 1, 1, 1
+Move: (1, 0, 1, 1, 0) -> Move String: r, 1, 2
+Move: (1, 0, 1, 1, 1) -> Move String: r, 1, 2, 1
+Move: (1, 0, 1, 1, 2) -> Move String: r, 1, 2, 2
+Move: (1, 0, 1, 2, 0) -> Move String: r, 1, 3
+Move: (1, 0, 1, 2, 1) -> Move String: r, 1, 3, 1
+Move: (1, 0, 1, 2, 2) -> Move String: r, 1, 3, 3
+Move: (1, 0, 1, 3, 0) -> Move String: r, 1, 4
+Move: (1, 0, 1, 3, 1) -> Move String: r, 1, 4, 1
+Move: (1, 0, 1, 3, 2) -> Move String: r, 1, 4, 4
+Move: (1, 0, 1, 4, 0) -> Move String: r, 1, 5
+Move: (1, 0, 1, 4, 1) -> Move String: r, 1, 5, 1
+Move: (1, 0, 1, 4, 2) -> Move String: r, 1, 5, 5
+Move: (1, 0, 1, 5, 0) -> Move String: r, 1, 6
+Move: (1, 0, 1, 5, 1) -> Move String: r, 1, 6, 1
+Move: (1, 0, 1, 5, 2) -> Move String: r, 1, 6, 6
+Move: (1, 0, 1, 6, 0) -> Move String: r, 1, 7
+Move: (1, 0, 1, 6, 1) -> Move String: r, 1, 7, 1
+Move: (1, 0, 1, 6, 2) -> Move String: r, 1, 7, 7
+Move: (1, 0, 1, 7, 0) -> Move String: r, 1, 8
+Move: (1, 0, 1, 7, 1) -> Move String: r, 1, 8, 1
+Move: (1, 0, 1, 7, 2) -> Move String: r, 1, 8, 8
+Move: (1, 0, 1, 8, 0) -> Move String: r, 1, 9
+Move: (1, 0, 1, 8, 1) -> Move String: r, 1, 9, 1
+Move: (1, 0, 1, 8, 2) -> Move String: r, 1, 9, 9
+Move: (1, 0, 1, 9, 0) -> Move String: r, 1, 10
+Move: (1, 0, 1, 9, 1) -> Move String: r, 1, 10, 1
+Move: (1, 0, 1, 9, 2) -> Move String: r, 1, 10, 10
+Move: (1, 0, 1, 10, 0) -> Move String: r, 1, 11
+Move: (1, 0, 1, 10, 1) -> Move String: r, 1, 11, 1
+Move: (1, 0, 1, 10, 2) -> Move String: r, 1, 11, 11
+Move: (1, 0, 1, 11, 0) -> Move String: r, 1, 12
+Move: (1, 0, 1, 11, 1) -> Move String: r, 1, 12, 1
+Move: (1, 0, 1, 11, 2) -> Move String: r, 1, 12, 12
+Move: (1, 1, 0, 0, 0) -> Move String: r, 2
+Move: (1, 1, 0, 1, 0) -> Move String: r, 2
+Move: (1, 1, 0, 2, 0) -> Move String: r, 2
+Move: (1, 1, 0, 3, 0) -> Move String: r, 2
+Move: (1, 1, 0, 4, 0) -> Move String: r, 2
+Move: (1, 1, 0, 5, 0) -> Move String: r, 2
+Move: (1, 1, 0, 6, 0) -> Move String: r, 2
+Move: (1, 1, 0, 7, 0) -> Move String: r, 2
+Move: (1, 1, 0, 8, 0) -> Move String: r, 2
+Move: (1, 1, 0, 9, 0) -> Move String: r, 2
+Move: (1, 1, 0, 10, 0) -> Move String: r, 2
+Move: (1, 1, 0, 11, 0) -> Move String: r, 2
+Move: (1, 1, 1, 0, 0) -> Move String: r, 2, 1
+Move: (1, 1, 1, 0, 1) -> Move String: r, 2, 1, 2
+Move: (1, 1, 1, 0, 2) -> Move String: r, 2, 1, 1
+Move: (1, 1, 1, 1, 0) -> Move String: r, 2, 2
+Move: (1, 1, 1, 1, 1) -> Move String: r, 2, 2, 2
+Move: (1, 1, 1, 1, 2) -> Move String: r, 2, 2, 2
+Move: (1, 1, 1, 2, 0) -> Move String: r, 2, 3
+Move: (1, 1, 1, 2, 1) -> Move String: r, 2, 3, 2
+Move: (1, 1, 1, 2, 2) -> Move String: r, 2, 3, 3
+Move: (1, 1, 1, 3, 0) -> Move String: r, 2, 4
+Move: (1, 1, 1, 3, 1) -> Move String: r, 2, 4, 2
+Move: (1, 1, 1, 3, 2) -> Move String: r, 2, 4, 4
+Move: (1, 1, 1, 4, 0) -> Move String: r, 2, 5
+Move: (1, 1, 1, 4, 1) -> Move String: r, 2, 5, 2
+Move: (1, 1, 1, 4, 2) -> Move String: r, 2, 5, 5
+Move: (1, 1, 1, 5, 0) -> Move String: r, 2, 6
+Move: (1, 1, 1, 5, 1) -> Move String: r, 2, 6, 2
+Move: (1, 1, 1, 5, 2) -> Move String: r, 2, 6, 6
+Move: (1, 1, 1, 6, 0) -> Move String: r, 2, 7
+Move: (1, 1, 1, 6, 1) -> Move String: r, 2, 7, 2
+Move: (1, 1, 1, 6, 2) -> Move String: r, 2, 7, 7
+Move: (1, 1, 1, 7, 0) -> Move String: r, 2, 8
+Move: (1, 1, 1, 7, 1) -> Move String: r, 2, 8, 2
+Move: (1, 1, 1, 7, 2) -> Move String: r, 2, 8, 8
+Move: (1, 1, 1, 8, 0) -> Move String: r, 2, 9
+Move: (1, 1, 1, 8, 1) -> Move String: r, 2, 9, 2
+Move: (1, 1, 1, 8, 2) -> Move String: r, 2, 9, 9
+Move: (1, 1, 1, 9, 0) -> Move String: r, 2, 10
+Move: (1, 1, 1, 9, 1) -> Move String: r, 2, 10, 2
+Move: (1, 1, 1, 9, 2) -> Move String: r, 2, 10, 10
+Move: (1, 1, 1, 10, 0) -> Move String: r, 2, 11
+Move: (1, 1, 1, 10, 1) -> Move String: r, 2, 11, 2
+Move: (1, 1, 1, 10, 2) -> Move String: r, 2, 11, 11
+Move: (1, 1, 1, 11, 0) -> Move String: r, 2, 12
+Move: (1, 1, 1, 11, 1) -> Move String: r, 2, 12, 2
+Move: (1, 1, 1, 11, 2) -> Move String: r, 2, 12, 12
+Move: (1, 2, 0, 0, 0) -> Move String: r, 3
+Move: (1, 2, 0, 1, 0) -> Move String: r, 3
+Move: (1, 2, 0, 2, 0) -> Move String: r, 3
+Move: (1, 2, 0, 3, 0) -> Move String: r, 3
+Move: (1, 2, 0, 4, 0) -> Move String: r, 3
+Move: (1, 2, 0, 5, 0) -> Move String: r, 3
+Move: (1, 2, 0, 6, 0) -> Move String: r, 3
+Move: (1, 2, 0, 7, 0) -> Move String: r, 3
+Move: (1, 2, 0, 8, 0) -> Move String: r, 3
+Move: (1, 2, 0, 9, 0) -> Move String: r, 3
+Move: (1, 2, 0, 10, 0) -> Move String: r, 3
+Move: (1, 2, 0, 11, 0) -> Move String: r, 3
+Move: (1, 2, 1, 0, 0) -> Move String: r, 3, 1
+Move: (1, 2, 1, 0, 1) -> Move String: r, 3, 1, 3
+Move: (1, 2, 1, 0, 2) -> Move String: r, 3, 1, 1
+Move: (1, 2, 1, 1, 0) -> Move String: r, 3, 2
+Move: (1, 2, 1, 1, 1) -> Move String: r, 3, 2, 3
+Move: (1, 2, 1, 1, 2) -> Move String: r, 3, 2, 2
+Move: (1, 2, 1, 2, 0) -> Move String: r, 3, 3
+Move: (1, 2, 1, 2, 1) -> Move String: r, 3, 3, 3
+Move: (1, 2, 1, 2, 2) -> Move String: r, 3, 3, 3
+Move: (1, 2, 1, 3, 0) -> Move String: r, 3, 4
+Move: (1, 2, 1, 3, 1) -> Move String: r, 3, 4, 3
+Move: (1, 2, 1, 3, 2) -> Move String: r, 3, 4, 4
+Move: (1, 2, 1, 4, 0) -> Move String: r, 3, 5
+Move: (1, 2, 1, 4, 1) -> Move String: r, 3, 5, 3
+Move: (1, 2, 1, 4, 2) -> Move String: r, 3, 5, 5
+Move: (1, 2, 1, 5, 0) -> Move String: r, 3, 6
+Move: (1, 2, 1, 5, 1) -> Move String: r, 3, 6, 3
+Move: (1, 2, 1, 5, 2) -> Move String: r, 3, 6, 6
+Move: (1, 2, 1, 6, 0) -> Move String: r, 3, 7
+Move: (1, 2, 1, 6, 1) -> Move String: r, 3, 7, 3
+Move: (1, 2, 1, 6, 2) -> Move String: r, 3, 7, 7
+Move: (1, 2, 1, 7, 0) -> Move String: r, 3, 8
+Move: (1, 2, 1, 7, 1) -> Move String: r, 3, 8, 3
+Move: (1, 2, 1, 7, 2) -> Move String: r, 3, 8, 8
+Move: (1, 2, 1, 8, 0) -> Move String: r, 3, 9
+Move: (1, 2, 1, 8, 1) -> Move String: r, 3, 9, 3
+Move: (1, 2, 1, 8, 2) -> Move String: r, 3, 9, 9
+Move: (1, 2, 1, 9, 0) -> Move String: r, 3, 10
+Move: (1, 2, 1, 9, 1) -> Move String: r, 3, 10, 3
+Move: (1, 2, 1, 9, 2) -> Move String: r, 3, 10, 10
+Move: (1, 2, 1, 10, 0) -> Move String: r, 3, 11
+Move: (1, 2, 1, 10, 1) -> Move String: r, 3, 11, 3
+Move: (1, 2, 1, 10, 2) -> Move String: r, 3, 11, 11
+Move: (1, 2, 1, 11, 0) -> Move String: r, 3, 12
+Move: (1, 2, 1, 11, 1) -> Move String: r, 3, 12, 3
+Move: (1, 2, 1, 11, 2) -> Move String: r, 3, 12, 12
+Move: (1, 3, 0, 0, 0) -> Move String: r, 4
+Move: (1, 3, 0, 1, 0) -> Move String: r, 4
+Move: (1, 3, 0, 2, 0) -> Move String: r, 4
+Move: (1, 3, 0, 3, 0) -> Move String: r, 4
+Move: (1, 3, 0, 4, 0) -> Move String: r, 4
+Move: (1, 3, 0, 5, 0) -> Move String: r, 4
+Move: (1, 3, 0, 6, 0) -> Move String: r, 4
+Move: (1, 3, 0, 7, 0) -> Move String: r, 4
+Move: (1, 3, 0, 8, 0) -> Move String: r, 4
+Move: (1, 3, 0, 9, 0) -> Move String: r, 4
+Move: (1, 3, 0, 10, 0) -> Move String: r, 4
+Move: (1, 3, 0, 11, 0) -> Move String: r, 4
+Move: (1, 3, 1, 0, 0) -> Move String: r, 4, 1
+Move: (1, 3, 1, 0, 1) -> Move String: r, 4, 1, 4
+Move: (1, 3, 1, 0, 2) -> Move String: r, 4, 1, 1
+Move: (1, 3, 1, 1, 0) -> Move String: r, 4, 2
+Move: (1, 3, 1, 1, 1) -> Move String: r, 4, 2, 4
+Move: (1, 3, 1, 1, 2) -> Move String: r, 4, 2, 2
+Move: (1, 3, 1, 2, 0) -> Move String: r, 4, 3
+Move: (1, 3, 1, 2, 1) -> Move String: r, 4, 3, 4
+Move: (1, 3, 1, 2, 2) -> Move String: r, 4, 3, 3
+Move: (1, 3, 1, 3, 0) -> Move String: r, 4, 4
+Move: (1, 3, 1, 3, 1) -> Move String: r, 4, 4, 4
+Move: (1, 3, 1, 3, 2) -> Move String: r, 4, 4, 4
+Move: (1, 3, 1, 4, 0) -> Move String: r, 4, 5
+Move: (1, 3, 1, 4, 1) -> Move String: r, 4, 5, 4
+Move: (1, 3, 1, 4, 2) -> Move String: r, 4, 5, 5
+Move: (1, 3, 1, 5, 0) -> Move String: r, 4, 6
+Move: (1, 3, 1, 5, 1) -> Move String: r, 4, 6, 4
+Move: (1, 3, 1, 5, 2) -> Move String: r, 4, 6, 6
+Move: (1, 3, 1, 6, 0) -> Move String: r, 4, 7
+Move: (1, 3, 1, 6, 1) -> Move String: r, 4, 7, 4
+Move: (1, 3, 1, 6, 2) -> Move String: r, 4, 7, 7
+Move: (1, 3, 1, 7, 0) -> Move String: r, 4, 8
+Move: (1, 3, 1, 7, 1) -> Move String: r, 4, 8, 4
+Move: (1, 3, 1, 7, 2) -> Move String: r, 4, 8, 8
+Move: (1, 3, 1, 8, 0) -> Move String: r, 4, 9
+Move: (1, 3, 1, 8, 1) -> Move String: r, 4, 9, 4
+Move: (1, 3, 1, 8, 2) -> Move String: r, 4, 9, 9
+Move: (1, 3, 1, 9, 0) -> Move String: r, 4, 10
+Move: (1, 3, 1, 9, 1) -> Move String: r, 4, 10, 4
+Move: (1, 3, 1, 9, 2) -> Move String: r, 4, 10, 10
+Move: (1, 3, 1, 10, 0) -> Move String: r, 4, 11
+Move: (1, 3, 1, 10, 1) -> Move String: r, 4, 11, 4
+Move: (1, 3, 1, 10, 2) -> Move String: r, 4, 11, 11
+Move: (1, 3, 1, 11, 0) -> Move String: r, 4, 12
+Move: (1, 3, 1, 11, 1) -> Move String: r, 4, 12, 4
+Move: (1, 3, 1, 11, 2) -> Move String: r, 4, 12, 12
+Move: (1, 4, 0, 0, 0) -> Move String: r, 5
+Move: (1, 4, 0, 1, 0) -> Move String: r, 5
+Move: (1, 4, 0, 2, 0) -> Move String: r, 5
+Move: (1, 4, 0, 3, 0) -> Move String: r, 5
+Move: (1, 4, 0, 4, 0) -> Move String: r, 5
+Move: (1, 4, 0, 5, 0) -> Move String: r, 5
+Move: (1, 4, 0, 6, 0) -> Move String: r, 5
+Move: (1, 4, 0, 7, 0) -> Move String: r, 5
+Move: (1, 4, 0, 8, 0) -> Move String: r, 5
+Move: (1, 4, 0, 9, 0) -> Move String: r, 5
+Move: (1, 4, 0, 10, 0) -> Move String: r, 5
+Move: (1, 4, 0, 11, 0) -> Move String: r, 5
+Move: (1, 4, 1, 0, 0) -> Move String: r, 5, 1
+Move: (1, 4, 1, 0, 1) -> Move String: r, 5, 1, 5
+Move: (1, 4, 1, 0, 2) -> Move String: r, 5, 1, 1
+Move: (1, 4, 1, 1, 0) -> Move String: r, 5, 2
+Move: (1, 4, 1, 1, 1) -> Move String: r, 5, 2, 5
+Move: (1, 4, 1, 1, 2) -> Move String: r, 5, 2, 2
+Move: (1, 4, 1, 2, 0) -> Move String: r, 5, 3
+Move: (1, 4, 1, 2, 1) -> Move String: r, 5, 3, 5
+Move: (1, 4, 1, 2, 2) -> Move String: r, 5, 3, 3
+Move: (1, 4, 1, 3, 0) -> Move String: r, 5, 4
+Move: (1, 4, 1, 3, 1) -> Move String: r, 5, 4, 5
+Move: (1, 4, 1, 3, 2) -> Move String: r, 5, 4, 4
+Move: (1, 4, 1, 4, 0) -> Move String: r, 5, 5
+Move: (1, 4, 1, 4, 1) -> Move String: r, 5, 5, 5
+Move: (1, 4, 1, 4, 2) -> Move String: r, 5, 5, 5
+Move: (1, 4, 1, 5, 0) -> Move String: r, 5, 6
+Move: (1, 4, 1, 5, 1) -> Move String: r, 5, 6, 5
+Move: (1, 4, 1, 5, 2) -> Move String: r, 5, 6, 6
+Move: (1, 4, 1, 6, 0) -> Move String: r, 5, 7
+Move: (1, 4, 1, 6, 1) -> Move String: r, 5, 7, 5
+Move: (1, 4, 1, 6, 2) -> Move String: r, 5, 7, 7
+Move: (1, 4, 1, 7, 0) -> Move String: r, 5, 8
+Move: (1, 4, 1, 7, 1) -> Move String: r, 5, 8, 5
+Move: (1, 4, 1, 7, 2) -> Move String: r, 5, 8, 8
+Move: (1, 4, 1, 8, 0) -> Move String: r, 5, 9
+Move: (1, 4, 1, 8, 1) -> Move String: r, 5, 9, 5
+Move: (1, 4, 1, 8, 2) -> Move String: r, 5, 9, 9
+Move: (1, 4, 1, 9, 0) -> Move String: r, 5, 10
+Move: (1, 4, 1, 9, 1) -> Move String: r, 5, 10, 5
+Move: (1, 4, 1, 9, 2) -> Move String: r, 5, 10, 10
+Move: (1, 4, 1, 10, 0) -> Move String: r, 5, 11
+Move: (1, 4, 1, 10, 1) -> Move String: r, 5, 11, 5
+Move: (1, 4, 1, 10, 2) -> Move String: r, 5, 11, 11
+Move: (1, 4, 1, 11, 0) -> Move String: r, 5, 12
+Move: (1, 4, 1, 11, 1) -> Move String: r, 5, 12, 5
+Move: (1, 4, 1, 11, 2) -> Move String: r, 5, 12, 12
+Move: (1, 5, 0, 0, 0) -> Move String: r, 6
+Move: (1, 5, 0, 1, 0) -> Move String: r, 6
+Move: (1, 5, 0, 2, 0) -> Move String: r, 6
+Move: (1, 5, 0, 3, 0) -> Move String: r, 6
+Move: (1, 5, 0, 4, 0) -> Move String: r, 6
+Move: (1, 5, 0, 5, 0) -> Move String: r, 6
+Move: (1, 5, 0, 6, 0) -> Move String: r, 6
+Move: (1, 5, 0, 7, 0) -> Move String: r, 6
+Move: (1, 5, 0, 8, 0) -> Move String: r, 6
+Move: (1, 5, 0, 9, 0) -> Move String: r, 6
+Move: (1, 5, 0, 10, 0) -> Move String: r, 6
+Move: (1, 5, 0, 11, 0) -> Move String: r, 6
+Move: (1, 5, 1, 0, 0) -> Move String: r, 6, 1
+Move: (1, 5, 1, 0, 1) -> Move String: r, 6, 1, 6
+Move: (1, 5, 1, 0, 2) -> Move String: r, 6, 1, 1
+Move: (1, 5, 1, 1, 0) -> Move String: r, 6, 2
+Move: (1, 5, 1, 1, 1) -> Move String: r, 6, 2, 6
+Move: (1, 5, 1, 1, 2) -> Move String: r, 6, 2, 2
+Move: (1, 5, 1, 2, 0) -> Move String: r, 6, 3
+Move: (1, 5, 1, 2, 1) -> Move String: r, 6, 3, 6
+Move: (1, 5, 1, 2, 2) -> Move String: r, 6, 3, 3
+Move: (1, 5, 1, 3, 0) -> Move String: r, 6, 4
+Move: (1, 5, 1, 3, 1) -> Move String: r, 6, 4, 6
+Move: (1, 5, 1, 3, 2) -> Move String: r, 6, 4, 4
+Move: (1, 5, 1, 4, 0) -> Move String: r, 6, 5
+Move: (1, 5, 1, 4, 1) -> Move String: r, 6, 5, 6
+Move: (1, 5, 1, 4, 2) -> Move String: r, 6, 5, 5
+Move: (1, 5, 1, 5, 0) -> Move String: r, 6, 6
+Move: (1, 5, 1, 5, 1) -> Move String: r, 6, 6, 6
+Move: (1, 5, 1, 5, 2) -> Move String: r, 6, 6, 6
+Move: (1, 5, 1, 6, 0) -> Move String: r, 6, 7
+Move: (1, 5, 1, 6, 1) -> Move String: r, 6, 7, 6
+Move: (1, 5, 1, 6, 2) -> Move String: r, 6, 7, 7
+Move: (1, 5, 1, 7, 0) -> Move String: r, 6, 8
+Move: (1, 5, 1, 7, 1) -> Move String: r, 6, 8, 6
+Move: (1, 5, 1, 7, 2) -> Move String: r, 6, 8, 8
+Move: (1, 5, 1, 8, 0) -> Move String: r, 6, 9
+Move: (1, 5, 1, 8, 1) -> Move String: r, 6, 9, 6
+Move: (1, 5, 1, 8, 2) -> Move String: r, 6, 9, 9
+Move: (1, 5, 1, 9, 0) -> Move String: r, 6, 10
+Move: (1, 5, 1, 9, 1) -> Move String: r, 6, 10, 6
+Move: (1, 5, 1, 9, 2) -> Move String: r, 6, 10, 10
+Move: (1, 5, 1, 10, 0) -> Move String: r, 6, 11
+Move: (1, 5, 1, 10, 1) -> Move String: r, 6, 11, 6
+Move: (1, 5, 1, 10, 2) -> Move String: r, 6, 11, 11
+Move: (1, 5, 1, 11, 0) -> Move String: r, 6, 12
+Move: (1, 5, 1, 11, 1) -> Move String: r, 6, 12, 6
+Move: (1, 5, 1, 11, 2) -> Move String: r, 6, 12, 12
+Move: (1, 6, 0, 0, 0) -> Move String: r, 7
+Move: (1, 6, 0, 1, 0) -> Move String: r, 7
+Move: (1, 6, 0, 2, 0) -> Move String: r, 7
+Move: (1, 6, 0, 3, 0) -> Move String: r, 7
+Move: (1, 6, 0, 4, 0) -> Move String: r, 7
+Move: (1, 6, 0, 5, 0) -> Move String: r, 7
+Move: (1, 6, 0, 6, 0) -> Move String: r, 7
+Move: (1, 6, 0, 7, 0) -> Move String: r, 7
+Move: (1, 6, 0, 8, 0) -> Move String: r, 7
+Move: (1, 6, 0, 9, 0) -> Move String: r, 7
+Move: (1, 6, 0, 10, 0) -> Move String: r, 7
+Move: (1, 6, 0, 11, 0) -> Move String: r, 7
+Move: (1, 6, 1, 0, 0) -> Move String: r, 7, 1
+Move: (1, 6, 1, 0, 1) -> Move String: r, 7, 1, 7
+Move: (1, 6, 1, 0, 2) -> Move String: r, 7, 1, 1
+Move: (1, 6, 1, 1, 0) -> Move String: r, 7, 2
+Move: (1, 6, 1, 1, 1) -> Move String: r, 7, 2, 7
+Move: (1, 6, 1, 1, 2) -> Move String: r, 7, 2, 2
+Move: (1, 6, 1, 2, 0) -> Move String: r, 7, 3
+Move: (1, 6, 1, 2, 1) -> Move String: r, 7, 3, 7
+Move: (1, 6, 1, 2, 2) -> Move String: r, 7, 3, 3
+Move: (1, 6, 1, 3, 0) -> Move String: r, 7, 4
+Move: (1, 6, 1, 3, 1) -> Move String: r, 7, 4, 7
+Move: (1, 6, 1, 3, 2) -> Move String: r, 7, 4, 4
+Move: (1, 6, 1, 4, 0) -> Move String: r, 7, 5
+Move: (1, 6, 1, 4, 1) -> Move String: r, 7, 5, 7
+Move: (1, 6, 1, 4, 2) -> Move String: r, 7, 5, 5
+Move: (1, 6, 1, 5, 0) -> Move String: r, 7, 6
+Move: (1, 6, 1, 5, 1) -> Move String: r, 7, 6, 7
+Move: (1, 6, 1, 5, 2) -> Move String: r, 7, 6, 6
+Move: (1, 6, 1, 6, 0) -> Move String: r, 7, 7
+Move: (1, 6, 1, 6, 1) -> Move String: r, 7, 7, 7
+Move: (1, 6, 1, 6, 2) -> Move String: r, 7, 7, 7
+Move: (1, 6, 1, 7, 0) -> Move String: r, 7, 8
+Move: (1, 6, 1, 7, 1) -> Move String: r, 7, 8, 7
+Move: (1, 6, 1, 7, 2) -> Move String: r, 7, 8, 8
+Move: (1, 6, 1, 8, 0) -> Move String: r, 7, 9
+Move: (1, 6, 1, 8, 1) -> Move String: r, 7, 9, 7
+Move: (1, 6, 1, 8, 2) -> Move String: r, 7, 9, 9
+Move: (1, 6, 1, 9, 0) -> Move String: r, 7, 10
+Move: (1, 6, 1, 9, 1) -> Move String: r, 7, 10, 7
+Move: (1, 6, 1, 9, 2) -> Move String: r, 7, 10, 10
+Move: (1, 6, 1, 10, 0) -> Move String: r, 7, 11
+Move: (1, 6, 1, 10, 1) -> Move String: r, 7, 11, 7
+Move: (1, 6, 1, 10, 2) -> Move String: r, 7, 11, 11
+Move: (1, 6, 1, 11, 0) -> Move String: r, 7, 12
+Move: (1, 6, 1, 11, 1) -> Move String: r, 7, 12, 7
+Move: (1, 6, 1, 11, 2) -> Move String: r, 7, 12, 12
+Move: (1, 7, 0, 0, 0) -> Move String: r, 8
+Move: (1, 7, 0, 1, 0) -> Move String: r, 8
+Move: (1, 7, 0, 2, 0) -> Move String: r, 8
+Move: (1, 7, 0, 3, 0) -> Move String: r, 8
+Move: (1, 7, 0, 4, 0) -> Move String: r, 8
+Move: (1, 7, 0, 5, 0) -> Move String: r, 8
+Move: (1, 7, 0, 6, 0) -> Move String: r, 8
+Move: (1, 7, 0, 7, 0) -> Move String: r, 8
+Move: (1, 7, 0, 8, 0) -> Move String: r, 8
+Move: (1, 7, 0, 9, 0) -> Move String: r, 8
+Move: (1, 7, 0, 10, 0) -> Move String: r, 8
+Move: (1, 7, 0, 11, 0) -> Move String: r, 8
+Move: (1, 7, 1, 0, 0) -> Move String: r, 8, 1
+Move: (1, 7, 1, 0, 1) -> Move String: r, 8, 1, 8
+Move: (1, 7, 1, 0, 2) -> Move String: r, 8, 1, 1
+Move: (1, 7, 1, 1, 0) -> Move String: r, 8, 2
+Move: (1, 7, 1, 1, 1) -> Move String: r, 8, 2, 8
+Move: (1, 7, 1, 1, 2) -> Move String: r, 8, 2, 2
+Move: (1, 7, 1, 2, 0) -> Move String: r, 8, 3
+Move: (1, 7, 1, 2, 1) -> Move String: r, 8, 3, 8
+Move: (1, 7, 1, 2, 2) -> Move String: r, 8, 3, 3
+Move: (1, 7, 1, 3, 0) -> Move String: r, 8, 4
+Move: (1, 7, 1, 3, 1) -> Move String: r, 8, 4, 8
+Move: (1, 7, 1, 3, 2) -> Move String: r, 8, 4, 4
+Move: (1, 7, 1, 4, 0) -> Move String: r, 8, 5
+Move: (1, 7, 1, 4, 1) -> Move String: r, 8, 5, 8
+Move: (1, 7, 1, 4, 2) -> Move String: r, 8, 5, 5
+Move: (1, 7, 1, 5, 0) -> Move String: r, 8, 6
+Move: (1, 7, 1, 5, 1) -> Move String: r, 8, 6, 8
+Move: (1, 7, 1, 5, 2) -> Move String: r, 8, 6, 6
+Move: (1, 7, 1, 6, 0) -> Move String: r, 8, 7
+Move: (1, 7, 1, 6, 1) -> Move String: r, 8, 7, 8
+Move: (1, 7, 1, 6, 2) -> Move String: r, 8, 7, 7
+Move: (1, 7, 1, 7, 0) -> Move String: r, 8, 8
+Move: (1, 7, 1, 7, 1) -> Move String: r, 8, 8, 8
+Move: (1, 7, 1, 7, 2) -> Move String: r, 8, 8, 8
+Move: (1, 7, 1, 8, 0) -> Move String: r, 8, 9
+Move: (1, 7, 1, 8, 1) -> Move String: r, 8, 9, 8
+Move: (1, 7, 1, 8, 2) -> Move String: r, 8, 9, 9
+Move: (1, 7, 1, 9, 0) -> Move String: r, 8, 10
+Move: (1, 7, 1, 9, 1) -> Move String: r, 8, 10, 8
+Move: (1, 7, 1, 9, 2) -> Move String: r, 8, 10, 10
+Move: (1, 7, 1, 10, 0) -> Move String: r, 8, 11
+Move: (1, 7, 1, 10, 1) -> Move String: r, 8, 11, 8
+Move: (1, 7, 1, 10, 2) -> Move String: r, 8, 11, 11
+Move: (1, 7, 1, 11, 0) -> Move String: r, 8, 12
+Move: (1, 7, 1, 11, 1) -> Move String: r, 8, 12, 8
+Move: (1, 7, 1, 11, 2) -> Move String: r, 8, 12, 12
+Move: (1, 8, 0, 0, 0) -> Move String: r, 9
+Move: (1, 8, 0, 1, 0) -> Move String: r, 9
+Move: (1, 8, 0, 2, 0) -> Move String: r, 9
+Move: (1, 8, 0, 3, 0) -> Move String: r, 9
+Move: (1, 8, 0, 4, 0) -> Move String: r, 9
+Move: (1, 8, 0, 5, 0) -> Move String: r, 9
+Move: (1, 8, 0, 6, 0) -> Move String: r, 9
+Move: (1, 8, 0, 7, 0) -> Move String: r, 9
+Move: (1, 8, 0, 8, 0) -> Move String: r, 9
+Move: (1, 8, 0, 9, 0) -> Move String: r, 9
+Move: (1, 8, 0, 10, 0) -> Move String: r, 9
+Move: (1, 8, 0, 11, 0) -> Move String: r, 9
+Move: (1, 8, 1, 0, 0) -> Move String: r, 9, 1
+Move: (1, 8, 1, 0, 1) -> Move String: r, 9, 1, 9
+Move: (1, 8, 1, 0, 2) -> Move String: r, 9, 1, 1
+Move: (1, 8, 1, 1, 0) -> Move String: r, 9, 2
+Move: (1, 8, 1, 1, 1) -> Move String: r, 9, 2, 9
+Move: (1, 8, 1, 1, 2) -> Move String: r, 9, 2, 2
+Move: (1, 8, 1, 2, 0) -> Move String: r, 9, 3
+Move: (1, 8, 1, 2, 1) -> Move String: r, 9, 3, 9
+Move: (1, 8, 1, 2, 2) -> Move String: r, 9, 3, 3
+Move: (1, 8, 1, 3, 0) -> Move String: r, 9, 4
+Move: (1, 8, 1, 3, 1) -> Move String: r, 9, 4, 9
+Move: (1, 8, 1, 3, 2) -> Move String: r, 9, 4, 4
+Move: (1, 8, 1, 4, 0) -> Move String: r, 9, 5
+Move: (1, 8, 1, 4, 1) -> Move String: r, 9, 5, 9
+Move: (1, 8, 1, 4, 2) -> Move String: r, 9, 5, 5
+Move: (1, 8, 1, 5, 0) -> Move String: r, 9, 6
+Move: (1, 8, 1, 5, 1) -> Move String: r, 9, 6, 9
+Move: (1, 8, 1, 5, 2) -> Move String: r, 9, 6, 6
+Move: (1, 8, 1, 6, 0) -> Move String: r, 9, 7
+Move: (1, 8, 1, 6, 1) -> Move String: r, 9, 7, 9
+Move: (1, 8, 1, 6, 2) -> Move String: r, 9, 7, 7
+Move: (1, 8, 1, 7, 0) -> Move String: r, 9, 8
+Move: (1, 8, 1, 7, 1) -> Move String: r, 9, 8, 9
+Move: (1, 8, 1, 7, 2) -> Move String: r, 9, 8, 8
+Move: (1, 8, 1, 8, 0) -> Move String: r, 9, 9
+Move: (1, 8, 1, 8, 1) -> Move String: r, 9, 9, 9
+Move: (1, 8, 1, 8, 2) -> Move String: r, 9, 9, 9
+Move: (1, 8, 1, 9, 0) -> Move String: r, 9, 10
+Move: (1, 8, 1, 9, 1) -> Move String: r, 9, 10, 9
+Move: (1, 8, 1, 9, 2) -> Move String: r, 9, 10, 10
+Move: (1, 8, 1, 10, 0) -> Move String: r, 9, 11
+Move: (1, 8, 1, 10, 1) -> Move String: r, 9, 11, 9
+Move: (1, 8, 1, 10, 2) -> Move String: r, 9, 11, 11
+Move: (1, 8, 1, 11, 0) -> Move String: r, 9, 12
+Move: (1, 8, 1, 11, 1) -> Move String: r, 9, 12, 9
+Move: (1, 8, 1, 11, 2) -> Move String: r, 9, 12, 12
+Move: (1, 9, 0, 0, 0) -> Move String: r, 10
+Move: (1, 9, 0, 1, 0) -> Move String: r, 10
+Move: (1, 9, 0, 2, 0) -> Move String: r, 10
+Move: (1, 9, 0, 3, 0) -> Move String: r, 10
+Move: (1, 9, 0, 4, 0) -> Move String: r, 10
+Move: (1, 9, 0, 5, 0) -> Move String: r, 10
+Move: (1, 9, 0, 6, 0) -> Move String: r, 10
+Move: (1, 9, 0, 7, 0) -> Move String: r, 10
+Move: (1, 9, 0, 8, 0) -> Move String: r, 10
+Move: (1, 9, 0, 9, 0) -> Move String: r, 10
+Move: (1, 9, 0, 10, 0) -> Move String: r, 10
+Move: (1, 9, 0, 11, 0) -> Move String: r, 10
+Move: (1, 9, 1, 0, 0) -> Move String: r, 10, 1
+Move: (1, 9, 1, 0, 1) -> Move String: r, 10, 1, 10
+Move: (1, 9, 1, 0, 2) -> Move String: r, 10, 1, 1
+Move: (1, 9, 1, 1, 0) -> Move String: r, 10, 2
+Move: (1, 9, 1, 1, 1) -> Move String: r, 10, 2, 10
+Move: (1, 9, 1, 1, 2) -> Move String: r, 10, 2, 2
+Move: (1, 9, 1, 2, 0) -> Move String: r, 10, 3
+Move: (1, 9, 1, 2, 1) -> Move String: r, 10, 3, 10
+Move: (1, 9, 1, 2, 2) -> Move String: r, 10, 3, 3
+Move: (1, 9, 1, 3, 0) -> Move String: r, 10, 4
+Move: (1, 9, 1, 3, 1) -> Move String: r, 10, 4, 10
+Move: (1, 9, 1, 3, 2) -> Move String: r, 10, 4, 4
+Move: (1, 9, 1, 4, 0) -> Move String: r, 10, 5
+Move: (1, 9, 1, 4, 1) -> Move String: r, 10, 5, 10
+Move: (1, 9, 1, 4, 2) -> Move String: r, 10, 5, 5
+Move: (1, 9, 1, 5, 0) -> Move String: r, 10, 6
+Move: (1, 9, 1, 5, 1) -> Move String: r, 10, 6, 10
+Move: (1, 9, 1, 5, 2) -> Move String: r, 10, 6, 6
+Move: (1, 9, 1, 6, 0) -> Move String: r, 10, 7
+Move: (1, 9, 1, 6, 1) -> Move String: r, 10, 7, 10
+Move: (1, 9, 1, 6, 2) -> Move String: r, 10, 7, 7
+Move: (1, 9, 1, 7, 0) -> Move String: r, 10, 8
+Move: (1, 9, 1, 7, 1) -> Move String: r, 10, 8, 10
+Move: (1, 9, 1, 7, 2) -> Move String: r, 10, 8, 8
+Move: (1, 9, 1, 8, 0) -> Move String: r, 10, 9
+Move: (1, 9, 1, 8, 1) -> Move String: r, 10, 9, 10
+Move: (1, 9, 1, 8, 2) -> Move String: r, 10, 9, 9
+Move: (1, 9, 1, 9, 0) -> Move String: r, 10, 10
+Move: (1, 9, 1, 9, 1) -> Move String: r, 10, 10, 10
+Move: (1, 9, 1, 9, 2) -> Move String: r, 10, 10, 10
+Move: (1, 9, 1, 10, 0) -> Move String: r, 10, 11
+Move: (1, 9, 1, 10, 1) -> Move String: r, 10, 11, 10
+Move: (1, 9, 1, 10, 2) -> Move String: r, 10, 11, 11
+Move: (1, 9, 1, 11, 0) -> Move String: r, 10, 12
+Move: (1, 9, 1, 11, 1) -> Move String: r, 10, 12, 10
+Move: (1, 9, 1, 11, 2) -> Move String: r, 10, 12, 12
+Move: (1, 10, 0, 0, 0) -> Move String: r, 11
+Move: (1, 10, 0, 1, 0) -> Move String: r, 11
+Move: (1, 10, 0, 2, 0) -> Move String: r, 11
+Move: (1, 10, 0, 3, 0) -> Move String: r, 11
+Move: (1, 10, 0, 4, 0) -> Move String: r, 11
+Move: (1, 10, 0, 5, 0) -> Move String: r, 11
+Move: (1, 10, 0, 6, 0) -> Move String: r, 11
+Move: (1, 10, 0, 7, 0) -> Move String: r, 11
+Move: (1, 10, 0, 8, 0) -> Move String: r, 11
+Move: (1, 10, 0, 9, 0) -> Move String: r, 11
+Move: (1, 10, 0, 10, 0) -> Move String: r, 11
+Move: (1, 10, 0, 11, 0) -> Move String: r, 11
+Move: (1, 10, 1, 0, 0) -> Move String: r, 11, 1
+Move: (1, 10, 1, 0, 1) -> Move String: r, 11, 1, 11
+Move: (1, 10, 1, 0, 2) -> Move String: r, 11, 1, 1
+Move: (1, 10, 1, 1, 0) -> Move String: r, 11, 2
+Move: (1, 10, 1, 1, 1) -> Move String: r, 11, 2, 11
+Move: (1, 10, 1, 1, 2) -> Move String: r, 11, 2, 2
+Move: (1, 10, 1, 2, 0) -> Move String: r, 11, 3
+Move: (1, 10, 1, 2, 1) -> Move String: r, 11, 3, 11
+Move: (1, 10, 1, 2, 2) -> Move String: r, 11, 3, 3
+Move: (1, 10, 1, 3, 0) -> Move String: r, 11, 4
+Move: (1, 10, 1, 3, 1) -> Move String: r, 11, 4, 11
+Move: (1, 10, 1, 3, 2) -> Move String: r, 11, 4, 4
+Move: (1, 10, 1, 4, 0) -> Move String: r, 11, 5
+Move: (1, 10, 1, 4, 1) -> Move String: r, 11, 5, 11
+Move: (1, 10, 1, 4, 2) -> Move String: r, 11, 5, 5
+Move: (1, 10, 1, 5, 0) -> Move String: r, 11, 6
+Move: (1, 10, 1, 5, 1) -> Move String: r, 11, 6, 11
+Move: (1, 10, 1, 5, 2) -> Move String: r, 11, 6, 6
+Move: (1, 10, 1, 6, 0) -> Move String: r, 11, 7
+Move: (1, 10, 1, 6, 1) -> Move String: r, 11, 7, 11
+Move: (1, 10, 1, 6, 2) -> Move String: r, 11, 7, 7
+Move: (1, 10, 1, 7, 0) -> Move String: r, 11, 8
+Move: (1, 10, 1, 7, 1) -> Move String: r, 11, 8, 11
+Move: (1, 10, 1, 7, 2) -> Move String: r, 11, 8, 8
+Move: (1, 10, 1, 8, 0) -> Move String: r, 11, 9
+Move: (1, 10, 1, 8, 1) -> Move String: r, 11, 9, 11
+Move: (1, 10, 1, 8, 2) -> Move String: r, 11, 9, 9
+Move: (1, 10, 1, 9, 0) -> Move String: r, 11, 10
+Move: (1, 10, 1, 9, 1) -> Move String: r, 11, 10, 11
+Move: (1, 10, 1, 9, 2) -> Move String: r, 11, 10, 10
+Move: (1, 10, 1, 10, 0) -> Move String: r, 11, 11
+Move: (1, 10, 1, 10, 1) -> Move String: r, 11, 11, 11
+Move: (1, 10, 1, 10, 2) -> Move String: r, 11, 11, 11
+Move: (1, 10, 1, 11, 0) -> Move String: r, 11, 12
+Move: (1, 10, 1, 11, 1) -> Move String: r, 11, 12, 11
+Move: (1, 10, 1, 11, 2) -> Move String: r, 11, 12, 12
+Move: (1, 11, 0, 0, 0) -> Move String: r, 12
+Move: (1, 11, 0, 1, 0) -> Move String: r, 12
+Move: (1, 11, 0, 2, 0) -> Move String: r, 12
+Move: (1, 11, 0, 3, 0) -> Move String: r, 12
+Move: (1, 11, 0, 4, 0) -> Move String: r, 12
+Move: (1, 11, 0, 5, 0) -> Move String: r, 12
+Move: (1, 11, 0, 6, 0) -> Move String: r, 12
+Move: (1, 11, 0, 7, 0) -> Move String: r, 12
+Move: (1, 11, 0, 8, 0) -> Move String: r, 12
+Move: (1, 11, 0, 9, 0) -> Move String: r, 12
+Move: (1, 11, 0, 10, 0) -> Move String: r, 12
+Move: (1, 11, 0, 11, 0) -> Move String: r, 12
+Move: (1, 11, 1, 0, 0) -> Move String: r, 12, 1
+Move: (1, 11, 1, 0, 1) -> Move String: r, 12, 1, 12
+Move: (1, 11, 1, 0, 2) -> Move String: r, 12, 1, 1
+Move: (1, 11, 1, 1, 0) -> Move String: r, 12, 2
+Move: (1, 11, 1, 1, 1) -> Move String: r, 12, 2, 12
+Move: (1, 11, 1, 1, 2) -> Move String: r, 12, 2, 2
+Move: (1, 11, 1, 2, 0) -> Move String: r, 12, 3
+Move: (1, 11, 1, 2, 1) -> Move String: r, 12, 3, 12
+Move: (1, 11, 1, 2, 2) -> Move String: r, 12, 3, 3
+Move: (1, 11, 1, 3, 0) -> Move String: r, 12, 4
+Move: (1, 11, 1, 3, 1) -> Move String: r, 12, 4, 12
+Move: (1, 11, 1, 3, 2) -> Move String: r, 12, 4, 4
+Move: (1, 11, 1, 4, 0) -> Move String: r, 12, 5
+Move: (1, 11, 1, 4, 1) -> Move String: r, 12, 5, 12
+Move: (1, 11, 1, 4, 2) -> Move String: r, 12, 5, 5
+Move: (1, 11, 1, 5, 0) -> Move String: r, 12, 6
+Move: (1, 11, 1, 5, 1) -> Move String: r, 12, 6, 12
+Move: (1, 11, 1, 5, 2) -> Move String: r, 12, 6, 6
+Move: (1, 11, 1, 6, 0) -> Move String: r, 12, 7
+Move: (1, 11, 1, 6, 1) -> Move String: r, 12, 7, 12
+Move: (1, 11, 1, 6, 2) -> Move String: r, 12, 7, 7
+Move: (1, 11, 1, 7, 0) -> Move String: r, 12, 8
+Move: (1, 11, 1, 7, 1) -> Move String: r, 12, 8, 12
+Move: (1, 11, 1, 7, 2) -> Move String: r, 12, 8, 8
+Move: (1, 11, 1, 8, 0) -> Move String: r, 12, 9
+Move: (1, 11, 1, 8, 1) -> Move String: r, 12, 9, 12
+Move: (1, 11, 1, 8, 2) -> Move String: r, 12, 9, 9
+Move: (1, 11, 1, 9, 0) -> Move String: r, 12, 10
+Move: (1, 11, 1, 9, 1) -> Move String: r, 12, 10, 12
+Move: (1, 11, 1, 9, 2) -> Move String: r, 12, 10, 10
+Move: (1, 11, 1, 10, 0) -> Move String: r, 12, 11
+Move: (1, 11, 1, 10, 1) -> Move String: r, 12, 11, 12
+Move: (1, 11, 1, 10, 2) -> Move String: r, 12, 11, 11
+Move: (1, 11, 1, 11, 0) -> Move String: r, 12, 12
+Move: (1, 11, 1, 11, 1) -> Move String: r, 12, 12, 12
+Move: (1, 11, 1, 11, 2) -> Move String: r, 12, 12, 12
