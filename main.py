@@ -226,6 +226,9 @@ class AiEngine:
 
         self.generation = 0
 
+        with open("moves.txt", "r") as file:
+            self.all_moves = [line.strip() for line in file.readlines()]
+
     def next_nearest_move(self, move):
         """
         Finds the move in moves.txt and returns an array of moves radiating out
@@ -237,15 +240,12 @@ class AiEngine:
         Returns:
             list: A list of moves radiating out from the found move.
         """
-        # Read all moves from moves.txt
-        with open("moves.txt", "r") as file:
-            all_moves = [line.strip() for line in file.readlines()]
         
         # Find the index of the given move
-        if move not in all_moves:
+        if move not in self.all_moves:
             raise ValueError(f"Move '{move}' not found in moves.txt.")
         
-        move_index = all_moves.index(move)
+        move_index = self.all_moves.index(move)
         nearest_moves = [move]  # Start with the given move
         
         # Alternating above and below indices
@@ -255,12 +255,12 @@ class AiEngine:
 
             # Check move above
             if move_index - offset >= 0:
-                nearest_moves.append(all_moves[move_index - offset])
+                nearest_moves.append(self.all_moves[move_index - offset])
                 added_any = True
 
             # Check move below
-            if move_index + offset < len(all_moves):
-                nearest_moves.append(all_moves[move_index + offset])
+            if move_index + offset < len(self.all_moves):
+                nearest_moves.append(self.all_moves[move_index + offset])
                 added_any = True
 
             # Break if no moves are added (bounds reached)
@@ -603,8 +603,13 @@ class AiEngine:
                 print("Game Over.")
                 break
 
+def LogicEngine():
+    def __init__(self):
+        self.game = "game"
+
+
 def main():
-    ai = AiEngine('C:\\Users\\brayd\\Builds\\Games\\columns-game\\config_file.txt')
+    ai = AiEngine('C:\\Users\\brayd\\Builds\\Games\\columns-game\\config_file.txt') #CHANGE ME TO RUN
     ai.train(generations=100)
 
 if __name__ == '__main__':
