@@ -53,12 +53,16 @@ class ColumnsGame:
         }
 
     def calc_score(self):
+        blocked = 0
         for c in self.board:
             if (c.size() == 5):
                 if (c.peek() == "Lr"):
                     self.score[0] += 1
                 elif (c.peek() == "Dr"):
                     self.score[1] += 1
+                else:
+                    blocked += 1
+        return blocked
     
     def update_score(self, piece, col):
         if (self.board[col].size() == 5):
@@ -605,7 +609,43 @@ class AiEngine:
 
 def LogicEngine():
     def __init__(self):
-        self.game = "game"
+        self.result = 0
+
+    def evaluate_position(self, game):
+        evaluation = 0
+
+        blocked = 0
+        prepped = [0, 0]
+
+        for c in game.board:
+            if (c.size() == 5):
+                if (c.peek() == "Lr"):
+                    game.score[0] += 1
+                elif (c.peek() == "Dr"):
+                    game.score[1] += 1
+                else:
+                    blocked += 1
+            if (c.size() == 4):
+                if (c.peek() == "Lb"):
+                    prepped[0] += 1
+                elif (c.peek() == "Db"):
+                    prepped[1] += 1
+
+        if blocked == 12:
+            return 0 # guaranteed draw 
+
+        divisor = 12 - blocked
+        p = [score / divisor for score in game.scores]
+
+        if p[0] > 0.5:
+            return 1000 # guaranteed White win
+        if p[1] > 0.5:
+            return -1000 # guaranteed Black win
+
+        evaluation += (p[0] - p[1]) * 200 # This ranges from -100 to 100, representing the columns scored
+
+        evaluation += pow((prepped[0] - prepped[1]),3) * 5
+        
 
 
 def main():
